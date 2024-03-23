@@ -9,12 +9,12 @@ This tool uses the Open AI [chat completion API](https://platform.openai.com/doc
 - `Vite`
 
 ## Getting Started
-Install dependencies:
+#### Install dependencies:
 ```
 npm install
 ```
 
-Set up environment variables:
+#### Set up environment variables:
 Create a `.env` file in the root directory and add your OpenAI API key:
 
 Get your key at 👉 https://platform.openai.com/account/api-keys
@@ -22,6 +22,15 @@ Get your key at 👉 https://platform.openai.com/account/api-keys
 VITE_OPENAI_API_KEY=your_openai_api_key
 VITE_OPENAI_API_URL=https://api.openai.com/v1/completions
 ```
+#### Run dev server: (http://localhost:3000)
+```
+npm run dev
+```
+#### Build for production
+```
+npm run build
+```
+
 ## License
 This project is under the MIT License.
 

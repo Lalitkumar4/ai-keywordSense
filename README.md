@@ -1,6 +1,6 @@
 # AI KeywordSense Tool
 
-This tool uses the Open AI [chat completion API](https://platform.openai.com/docs/guides/text-generation/completions-api) to extract the most relevant keywords from any given text. It is built with React and Chakra UI. To generate keywords, simply enter your text in the textarea field, and click on the generate keyword button and the tool will generate keywords for you.
+This tool uses the Open AI [chat completion API](https://platform.openai.com/docs/guides/text-generation/completions-api) to extract the most relevant keywords from a given text. It is built with React and Chakra UI. To generate keywords, simply enter your text in the textarea field, and click on the generate keyword button and the tool will generate keywords for you.
 
 ## ⚙️ Technologies Used
 - `ReactJS`
